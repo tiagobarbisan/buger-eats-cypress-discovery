@@ -1,6 +1,7 @@
 {
+    "projectId": "7hs7nm",
     "viewportWidth": 1000,
     "viewportHeight": 900,
-    "baseUrl" : "https://buger-eats-qa.vercel.app"    
+    "baseUrl" : "https://buger-eats-qa.vercel.app"        
 }
 
