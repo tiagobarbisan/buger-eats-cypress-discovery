@@ -1,0 +1,51 @@
+{
+  "signup" : {
+        "name":     "Tiago Barbisan",
+        "cpf":      "00000014141",
+        "email":    "teste@teste.com",
+        "whatsapp": "42999999999",
+        "address": {
+            "postalcode": "84031388",
+            "street": "Rua Leony Delourdes Alves da Costa",
+            "number": "245",
+            "details": "Casa",
+            "district": "Uvaranas",
+            "city_state": "Ponta Grossa/PR"
+        },
+        "delivery_method": "Moto",
+        "cnh": "images/cnh-digital.jpg"
+},
+  "cpf_inv": {
+    "name":     "João Silva",
+        "cpf":      "000000141AA",
+        "email":    "teste@teste.com",
+        "whatsapp": "42999999999",
+        "address": {
+            "postalcode": "84031388",
+            "street": "Rua Leony Delourdes Alves da Costa",
+            "number": "245",
+            "details": "Casa",
+            "district": "Uvaranas",
+            "city_state": "Ponta Grossa/PR"
+        },
+        "delivery_method": "Moto",
+        "cnh": "images/cnh-digital.jpg"
+  },
+  "email_inv" : {
+    "name":     "Tiago Barbisan",
+    "cpf":      "00000014141",
+    "email":    "teste.teste.com",
+    "whatsapp": "42999999999",
+    "address": {
+        "postalcode": "84031388",
+        "street": "Rua Leony Delourdes Alves da Costa",
+        "number": "245",
+        "details": "Casa",
+        "district": "Uvaranas",
+        "city_state": "Ponta Grossa/PR"
+    },
+    "delivery_method": "Moto",
+    "cnh": "images/cnh-digital.jpg"
+}
+
+}
